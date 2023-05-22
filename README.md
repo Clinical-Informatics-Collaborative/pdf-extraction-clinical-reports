@@ -1,11 +1,10 @@
 # pdf-extraction-clinical-reports
 
-repo for 2023 Feb intake. 
+This project is created by 2023 Feb intake. 
 Consist of two parts: extracting data from existing clinical report and generating sythetic report
-This project uses jupyter notebook
 
 ## extraction
-run extract_....ipynb will extract information from clinical reports in the following format:
+run extract.ipynb would extract information from clinical reports in the following format and save as .json file n the same directory.
 ```
 {
    "patient_info": {
@@ -29,20 +28,6 @@ run extract_....ipynb will extract information from clinical reports in the foll
          "VRF (%)": "",
          "CLINICAL SIGNIFICANCE IN AML": ""
       },
-      {
-         "ASSUMED ORIGIN": "",
-         "GENE": "",
-         "VARIANT": "",
-         "VRF (%)": "",
-         "CLINICAL SIGNIFICANCE IN AML": ""
-      },
-      {
-         "ASSUMED ORIGIN": "",
-         "GENE": "",
-         "VARIANT": "",
-         "VRF (%)": "",
-         "CLINICAL SIGNIFICANCE IN AML": ""
-      }
       .....
    ]
 }
@@ -52,6 +37,6 @@ run extract_....ipynb will extract information from clinical reports in the foll
 run Generation.ipynb, which would generaten 10 .json in generated_json
 then run json_to_pdf will generated cythetic reports in report_word and report_pdf
 
-The three docx files, PeterMac.docx,WEHI.docx and testtemplate.docx are layout templates used for the generation
+The three docx files, PeterMac.docx,WEHI.docx and testtemplate.docx are layout templates used for the generation.
 ```
 ```
