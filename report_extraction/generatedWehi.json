@@ -1,0 +1,38 @@
+{
+   "patient_info": {
+      "Name": "Nell Cox",
+      "Lab No": "17999458",
+      "Ext Ref": "1745766441",
+      "Collected": "04-Jun-2022",
+      "Received": "04-Oct-2023",
+      "Specimen": "Muscle biopsy test",
+      "Requester": "DrJoan Lewis",
+      "Referral Lab": "Dorevitch Pathology",
+      "URN": "PMEX347746",
+      "DOB": "04-Dec-1994",
+      "Sex": "M"
+   },
+   "reportable_variants": [
+      {
+         "ASSUMED ORIGIN": "Somatic",
+         "GENE": "FLT3",
+         "VARIANT": "FLT3-ITD (allelicratio 0.76)",
+         "VRF (%)": "14",
+         "CLINICAL SIGNIFICANCE IN AML": "DIAGNOSTIC"
+      },
+      {
+         "ASSUMED ORIGIN": "Eukaryotic",
+         "GENE": "ALDH2",
+         "VARIANT": "c.2842del,p.(Glu948Argfs*3)",
+         "VRF (%)": "11",
+         "CLINICAL SIGNIFICANCE IN AML": "PROGNOSTIC / DRUG TARGET"
+      },
+      {
+         "ASSUMED ORIGIN": "Prokaryotic",
+         "GENE": "CFTR",
+         "VARIANT": "c.2645G>A,p.(Arg882His)",
+         "VRF (%)": "11",
+         "CLINICAL SIGNIFICANCE IN AML": "CLONAL MARKER"
+      }
+   ]
+}
