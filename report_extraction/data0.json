@@ -1,0 +1,31 @@
+{
+   "patient_info": {
+      "Name": "Wayne Kearns",
+      "Lab No": "19277020",
+      "Ext Ref": "7950601669",
+      "Collected": "04-Jun-2022",
+      "Received": "04-Oct-2023",
+      "Specimen": "Muscle biopsy test",
+      "Requester": "DrJoan Lewis",
+      "Referral Lab": "Alpha Pathology",
+      "URN": "PMEX347746",
+      "DOB": "04-Dec-1994",
+      "Sex": "F"
+   },
+   "reportable_variants": [
+      {
+         "ASSUMED ORIGIN": "Eukaryotic",
+         "GENE": "FOXP2",
+         "VARIANT": "c.2842del,p.(Glu948Argfs*3)",
+         "VRF (%)": "15",
+         "CLINICAL SIGNIFICANCE IN AML": "PROGNISTIC"
+      },
+      {
+         "ASSUMED ORIGIN": "Germ",
+         "GENE": "TP53",
+         "VARIANT": "c.2645G>A,p.(Arg882His)",
+         "VRF (%)": "6",
+         "CLINICAL SIGNIFICANCE IN AML": "DIAGNOSTIC"
+      }
+   ]
+}

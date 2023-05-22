@@ -1,0 +1,389 @@
+ 
+ 
+Name: Wayne Kearns 
+URN: 
+PMEX347746 
+ 
+DOB: 
+04-Dec-1994 
+Sex: 
+F 
+ 
+Clinical Indication 
+ 
+Ploycythaemia 
+Correlative 
+Morphology 
+ Not provided 
+ 
+ 
+ 
+Test Description 
+Somatic variant analysis of 22 genes with clinical significance in myeloproliferative 
+neoplasms. Referto Panel Summary for gene list. 
+ 
+     Result Summary: 
+ASSUMED SOMATIC VARIANTS DETECTED. See Reportable Variants table below 
+for details.   
+ 
+Test Results  
+ASSUMED ORIGIN 
+GENE 
+VARIANT 
+VRF (%) 
+CLINICAL SIGNIFICANCE IN AML 
+Eukaryotic 
+FOXP2 
+c.2842del, 
+p.(Glu948Argfs*3) 
+15 
+PROGNISTIC 
+Germ 
+TP53 
+c.2645G>A, 
+p.(Arg882His) 
+6 
+DIAGNOSTIC 
+VRF – variant read frequency 
+ 
+Clinical 
+Interpretation 
+Variants in DNMT3A and SH2B3 were detected in this bone marrow aspirate sample consistent 
+witha diagnosis of a myeloproliferative neoplasm (MPN) or idiopathic erythrocytosis. No typical 
+MPNdriver variants (JAK2/CALR/MPL) were detected in this sample. Please correlate with 
+morphological, immunophenotypic and cytogenetic features. Refer to final page of report for 
+further information regarding the clinical utility of genomic testing inthis context. 
+FLT3-ITD 
+Analysis  
+ FLT3-ITD DETECTED BY SEPARATE ASSAY (see Reportable Variants table for details)  
+ 
+Reportable 
+Variants  
+ 
+Please note, variant origin (somatic or germline) cannot be determined by this assay. Variant 
+origin is assumedhere based on ancillary information (e.g. population databases, literature, 
+variant read frequency) for the purposeof clinical interpretation however testing of a germline 
+sample may be recommended in some circumstances. 
+ 
+ 
+Test Methodology 
+DNA is analysed by targeted gene sequencing of coding regions and flanking splice sites (within 2 bp) of the genes listed below. 
+Libraries areprepared using a custom QIAGEN QIAseq single primer extension-based panel (Peter MacCallum Cancer Centre 
+AllHaem v1) and sequencedon an Illumina NextSeq500 with 150 bp paired end reads. A customised CLC bioinformatics pipeline 
+including QIAGEN CLC enterprise solutionsis used to generate aligned reads and call variants (single nucleotide variants and 
+short insertions or deletions) against the hg19 human referencgenome. Variants are analysed using PathOS software (Peter Mac) 
+and described according to HGVS nomenclature version 19.01(http://varnomen.hgvs.org/) with minor differences in accordance 
+with Peter MacCallum Cancer Centre Molecular Pathology departmental policy.The following population variation and cancer or 
+genetic disease databases are commonly used in addition to literature review to assist withvariant interpretation: the Genome 
+Aggregation Database (gnomAD; gnomad.broadinstitute.org), the Catalogue of Somatic Mutations in Cancer(COSMIC; 
+cancer.sanger.ac.uk), ClinVar (ncbi.nlm.nih.gov/clinvar) and the IARC TP53 Database (p53.iarc.fr). Variant origin (i.e. somatic 
+orgermline) is assumed based on ancillary information (e.g. population databases, literature, variant read frequency) for the 
+purpose of clinicalinterpretation. All assumed somatic variants are reported (and generally considered clinically significant). 
+Variants of uncertain origin are alsoreported, as are likely benign germline polymorphisms if sufficiently rare and otherwise 
+TEST DETAILS 
+Lab No: 19277020 
+Ext Ref: 7950601669 
+Collected: 04-Jun-2022 
+Received: 04-Oct-2023 
+Specimen: Muscle biopsy test 
+TEST ORDERED BY 
+Requester: DrJoan Lewis 
+Referral Lab: Alpha Pathology 
+HAEMATOLOGICAL MALIGNANCY GENE PANEL REPORT 
+ 
+undescribed. Testing of a non-haematological specimenmay be recommended to evaluate variant origin. Recurrent population 
+variants are not reported. Somatic variant categorisation (modified fromAMP/ASCO/CAP guidelines1) – Variants are curated and 
+categorised according to the clinical context of the patient and categorised asDIAGNOSTIC (the variant either defines a 
+diagnostic category or is sufficiently specific for the clinical context to contribute to diagnosticsubcategorisation), PROGNOSTIC 
+(the variant has been associated in large trials/series with inferior or superior outcomes in either the contextof a specific therapy 
+or independent of therapy. Note this does not take into account interaction between prognostic variants present in theindividual 
+patient. Relevant pairwise interactions are presented in the clinical summary), DRUG TARGET (the variant or variant class is 
+specificallytargeted by a therapeutic agent, this category only includes therapeutic agents that are clinically advanced and 
+generally available through eitherreimbursement or clinical trials [i.e. not early stage investigational agents]), DRUG 
+RESISTANCE (the variant is specifically associated withresistance to a targeted agent [i.e. does not include non-specific 
+resistance to non-targeted therapies]), MRD MARKER (the variant is anestablished biomarker for which assessment at MRD 
+sensitivity after therapy is accepted practice). If the variant is not categorised into any of the above categories it is assigned 
+CLONAL MARKER indicating its utility in defining the presence of a clonal haematopoietic process in thespecimen. These 
+categorisations are general in nature and may not be applicable to the specific clinicopathological context of the patient. 
+ 
+Test Limitations 
+The detection limit of this assay for specimens sequenced to the target read depth of 500x is a variant allele frequency 
+(VAF) of approximately2% with the exception of ASXL1 c.1934dup;p.Gly646Trpfs*12 (detection limit ~ 5%). This assay is 
+primarily qualitative however, the variant readfrequency (VRF) is provided to assist with variant interpretation and is 
+assumed to approximate VAF in most instances (noting that the VAF ofsome insertions/deletions may be 
+underrepresented due to assay-based allele bias). The measurement of uncertainty provided as a percentagerelative 
+standard uncertainty (i.e. CV%) for variants with VAFs of 5%, 10%-20%, 30%-40% and 50% are on average, 10.2%, 10.4%, 
+3.5% and4.4%, respectively. Copy number variations, loss of heterozygosity, structural rearrangements or aneuploidies 
+are not reported. Insertions ordeletions (particularly those > 25 bp in length), including FLT3-ITDs, are not reliably 
+detected by this assay. Genes are analysed using thereference transcripts listed below; coding exons found in 
+alternative transcripts are not assessed by this assay. This assay does not distinguishbetween somatic and germline 
+variants. In addition, the clonal origin of somatic variants (i.e. disease compartment or cell lineage) cannot 
+bedetermined. Synonymous variants are not routinely reported. Please note Peter Mac assumes sample identification, 
+family relationships, andclinical diagnoses are as stated on the request. Our clinical recommendations may be based on 
+evidence from third-party data sources and shouldbe interpreted in the context of all other clinical and laboratory 
+information for this patient. 
+ 
+Panel Summary 
+Please note variants may not be optimally detected in genes with less than 100% coverage. The gene coverage above is 
+considered acceptablegiven the available information about the clinical context, however please contact the laboratory for further 
+advice should specific genes coveredat less than 100% require full coverage. A list of regions with suboptimal coverage is 
+available upon request. 
+ 
+Gene 
+ 
+Transcript 
+ 
+Targeted exons 
+Coverage 
+at >500x 
+(%) 
+ 
+Gene 
+ 
+Transcript 
+ 
+Targeted exons 
+Coverag
+e 
+at >500x 
+(%) 
+ 
+Gene 
+ 
+Transcript 
+ 
+Targeted 
+exons 
+Coverag
+e 
+at >500x 
+(%) 
+ABL1 
+NM_005157.4 4-10 
+100 
+FLT3* 
+NM_004119.2 
+14-15,17,20 
+100 
+PHF6 
+NM_001015877.1 7-10 
+95 
+ARAF 
+NM_001654.4 7,10,15 
+100 
+FYN 
+NM_002037.5 
+7 
+100 
+PIGA 
+NM_002641.3 
+All coding 
+100 
+ASXL1 
+NM_015338.5 10-12 
+100 
+GATA1 
+NM_002049.3 
+2-6 
+100 
+PLCG1 
+NM_002660.2 
+11 
+100 
+BCL2 
+NM_000633.2 All coding 
+100 
+GATA2 
+NM_032638.4 
+All coding 
+100 
+PLCG2 
+NM_002661.3 
+16,19-20,24 
+100 
+BIRC3 
+NM_001165.4 6-9 
+100 
+ID3 
+NM_002167.4 
+All coding 
+100 
+RHOA 
+NM_001664.2 
+2 
+100 
+BRAF 
+NM_004333.4 15 
+100 
+IDH1 
+NM_005896.2 
+4,7 
+100 
+RUNX1 
+NM_001754.4 
+All coding 
+100 
+BTK 
+NM_000061.2 11,15-16 
+100 
+IDH2 
+NM_002168.2 
+4,7 
+100 
+SETBP1 
+NM_015559.2 
+4 
+100 
+CALR 
+NM_004343.3 9 
+100 
+IRF8 
+NM_002163.2 
+3 
+100 
+SF3B1 
+NM_012433.2 
+14-16 
+100 
+CARD11 
+NM_032415.4 4-9,15,20 
+100 
+JAK2 
+NM_004972.3 
+12-14,16 
+100 
+SH2B3 
+NM_005475.2 
+All coding 
+98.6 
+CBL 
+NM_005188.3 8-9 
+100 
+JAK3 
+NM_000215.3 
+11,13,15 
+94.9 
+SRSF2 
+NM_003016.4 
+1 
+100 
+CD274 
+NM_014143.3 All coding,3'UTR 100 
+KIT 
+NM_000222.2 
+8,10-11,17 
+100 
+STAT3 
+NM_139276.2 
+6,13,15,18-21 
+100 
+CD79B 
+NM_000626.2 5,6 
+100 
+KRAS 
+NM_033360.2 
+2-4 
+100 
+STAT5B 
+NM_012448.3 
+16 
+100 
+CEBPA 
+NM_004364.3 All coding 
+100 
+MAP2K1 
+NM_002755.3 
+2-3 
+100 
+STAT6 
+NM_001178078.1 10,13,16 
+100 
+CSF3R 
+NM_156039.3 14,17 
+100 
+MPL 
+NM_005373.2 
+1-11 
+100 
+TCF3 
+NM_001136139.2 17 
+100 
+CXCR4 
+NM_003467.2 2^ 
+100 
+MYD88 
+NM_002468.4 
+4-5 
+100 
+TET2 
+NM_001127208.2 All coding 
+100 
+DDX41 
+NM_016222.2 All coding 
+100 
+NOTCH1 NM_017617.3 
+26-
+28,34,3'UTR^ 
+100 
+TP53 
+NM_000546.5 
+All coding 
+100 
+DNMT3A 
+NM_022552.4 All coding 
+100 
+NPM1 
+NM_002520.6 
+11 
+100 
+U2AF1 
+NM_006758.2 
+2,6 
+100 
+ETNK1 
+NM_018638.4 3 
+100 
+NRAS 
+NM_002524.4 
+2-4 
+97.4 
+XPO1 
+NM_003400.3 
+15-16 
+100 
+EZH2 
+NM_004456.4 All coding 
+100 
+PDCD1L
+G2 
+NM_025239.3 
+All coding,3'UTR 100 
+ZRSR2 
+NM_005089.3 
+All coding 
+100 
+* Please note FLT3-ITDs are not detected with this assay. A separate assay may have been performed, result included in Test Results if sample tested.  
+^ Partial coverage of region 
+ 
+ 
+Please note variants may not be optimally detected in genes with less than 100% coverage. The gene coverage above is 
+considered acceptable given the available information about the clinical context, however please contact the laboratory for further 
+advice should specific genes covered at less than 100% require full coverage. A list of regions with suboptimal coverage is 
+available upon request. 
+Please contact the laboratory on 03 8559 7284 if you wish to discuss this report further. 
+ 
+ 
+Reported by 
+ Dr Ing Soo Tiong (Consultant Haematologist) 
+  Authorised by  
+A/Prof Piers Blombery (Consultant Haematologist) 
+Reported 
+ 16-Mar-2023 
+ 
+References 
+1. 
+1. Li MM, Datto M, Duncavage EJ, et al. Standards and Guidelines for the Interpretation and Reporting of Sequence 
+Variants in Cancer:A Joint Consensus Recommendation of the Association for Molecular Pathology, American Society of 
+Clinical Oncology, and College ofAmerican Pathologists. J Mol Diagn 2017; 19(1): 4-23.
+ 
+ 

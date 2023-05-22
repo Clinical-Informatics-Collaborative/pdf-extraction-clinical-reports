@@ -1,0 +1,51 @@
+{
+   "patient_info": {
+      "Patient": "Wayne Kearns",
+      "Specimen": "Muscle biopsy test",
+      "Referral_Lab": "Alpha Pathology",
+      "URN": "PMEX347746",
+      "DOB": "04-Dec-1994",
+      "Sex": "F",
+      "Lab_No": "19277020",
+      "Ext_Ref": "7950601669",
+      "Collected": "04-Jun-2022",
+      "Received": "04-Oct-2023",
+      "Requester": "DrJoan Lewis"
+   },
+   "reportable_variants": [
+      {
+         "ASSUMED_ORIGIN": "Eukaryotic",
+         "GENE": "FOXP2",
+         "VARIANT": "c.2842del, p.(Glu948Argfs*3)",
+         "VRF": "15",
+         "CLINICAL_SIGNIFICANCE_IN_AML": "PROGNISTIC"
+      },
+      {
+         "ASSUMED_ORIGIN": "Germ",
+         "GENE": "TP53",
+         "VARIANT": "c.2645G>A, p.(Arg882His)",
+         "VRF": "6",
+         "CLINICAL_SIGNIFICANCE_IN_AML": "DIAGNOSTIC"
+      }
+   ],
+   "other_info": {
+      "Clinical_Indication": "Ploycythaemia",
+      "Correlative_Morphology": "Not provided",
+      "Specimen_Details": "N/A"
+   },
+   "report_title": {
+      "Test_Description": "Somatic variant analysis of 22 genes with clinical significance in myeloproliferative neoplasms. Referto Panel Summary for gene list.",
+      "Result_Summary": "ASSUMED SOMATIC VARIANTS DETECTED. See Reportable Variants table below for details. ",
+      "Clinical_Interpretation": "Variants in DNMT3A and SH2B3 were detected in this bone marrow aspirate sample consistent witha diagnosis of a myeloproliferative neoplasm (MPN) or idiopathic erythrocytosis. No typical MPNdriver variants (JAK2/CALR/MPL) were detected in this sample. Please correlate with morphological, immunophenotypic and cytogenetic features. Refer to final page of report for further information regarding the clinical utility of genomic testing inthis context.",
+      "reportable_variants_description": "Please note, variant origin (somatic or germline) cannot be determined by this assay. Variant origin is assumedhere based on ancillary information (e.g. population databases, literature, variant read frequency) for the purposeof clinical interpretation however testing of a germline sample may be recommended in some circumstances."
+   },
+   "Test_Methodology": "DNA is analysed by targeted gene sequencing of coding regions and flanking splice sites (within 2 bp) of the genes listed below. Libraries areprepared using a custom QIAGEN QIAseq single primer extension-based panel (Peter MacCallum Cancer Centre AllHaem v1) and sequencedon an Illumina NextSeq500 with 150 bp paired end reads. A customised CLC bioinformatics pipeline including QIAGEN CLC enterprise solutionsis used to generate aligned reads and call variants (single nucleotide variants and short insertions or deletions) against the hg19 human referencgenome. Variants are analysed using PathOS software (Peter Mac) and described according to HGVS nomenclature version 19.01(http://varnomen.hgvs.org/) with minor differences in accordance with Peter MacCallum Cancer Centre Molecular Pathology departmental policy.The following population variation and cancer or genetic disease databases are commonly used in addition to literature review to assist withvariant interpretation: the Genome Aggregation Database (gnomAD; gnomad.broadinstitute.org), the Catalogue of Somatic Mutations in Cancer(COSMIC; cancer.sanger.ac.uk), ClinVar (ncbi.nlm.nih.gov/clinvar) and the IARC TP53 Database (p53.iarc.fr). Variant origin (i.e. somatic orgermline) is assumed based on ancillary information (e.g. population databases, literature, variant read frequency) for the purpose of clinicalinterpretation. All assumed somatic variants are reported (and generally considered clinically significant). Variants of uncertain origin are alsoreported, as are likely benign germline polymorphisms if sufficiently rare and otherwise undescribed. Testing of a non-haematological specimenmay be recommended to evaluate variant origin. Recurrent population variants are not reported. Somatic variant categorisation (modified fromAMP/ASCO/CAP guidelines1) \u2013 Variants are curated and categorised according to the clinical context of the patient and categorised asDIAGNOSTIC (the variant either defines a diagnostic category or is sufficiently specific for the clinical context to contribute to diagnosticsubcategorisation), PROGNOSTIC (the variant has been associated in large trials/series with inferior or superior outcomes in either the contextof a specific therapy or independent of therapy. Note this does not take into account interaction between prognostic variants present in theindividual patient. Relevant pairwise interactions are presented in the clinical summary), DRUG TARGET (the variant or variant class is specificallytargeted by a therapeutic agent, this category only includes therapeutic agents that are clinically advanced and generally available through eitherreimbursement or clinical trials [i.e. not early stage investigational agents]), DRUG RESISTANCE (the variant is specifically associated withresistance to a targeted agent [i.e. does not include non-specific resistance to non-targeted therapies]), MRD MARKER (the variant is anestablished biomarker for which assessment at MRD sensitivity after therapy is accepted practice). If the variant is not categorised into any of the above categories it is assigned CLONAL MARKER indicating its utility in defining the presence of a clonal haematopoietic process in thespecimen. These categorisations are general in nature and may not be applicable to the specific clinicopathological context of the patient.",
+   "Test_Limitations": "The detection limit of this assay for specimens sequenced to the target read depth of 500x is a variant allele frequency (VAF) of approximately2% with the exception of ASXL1 c.1934dup;p.Gly646Trpfs*12 (detection limit ~ 5%). This assay is primarily qualitative however, the variant readfrequency (VRF) is provided to assist with variant interpretation and is assumed to approximate VAF in most instances (noting that the VAF ofsome insertions/deletions may be underrepresented due to assay-based allele bias). The measurement of uncertainty provided as a percentagerelative standard uncertainty (i.e. CV%) for variants with VAFs of 5%, 10%-20%, 30%-40% and 50% are on average, 10.2%, 10.4%, 3.5% and4.4%, respectively. Copy number variations, loss of heterozygosity, structural rearrangements or aneuploidies are not reported. Insertions ordeletions (particularly those > 25 bp in length), including FLT3-ITDs, are not reliably detected by this assay. Genes are analysed using thereference transcripts listed below; coding exons found in alternative transcripts are not assessed by this assay. This assay does not distinguishbetween somatic and germline variants. In addition, the clonal origin of somatic variants (i.e. disease compartment or cell lineage) cannot bedetermined. Synonymous variants are not routinely reported. Please note Peter Mac assumes sample identification, family relationships, andclinical diagnoses are as stated on the request. Our clinical recommendations may be based on evidence from third-party data sources and shouldbe interpreted in the context of all other clinical and laboratory information for this patient.",
+   "Panel_Summary": {
+      "Summary": "Please note variants may not be optimally detected in genes with less than 100% coverage. The gene coverage above is considered acceptablegiven the available information about the clinical context, however please contact the laboratory for further advice should specific genes coveredat less than 100% require full coverage. A list of regions with suboptimal coverage is available upon request.",
+      "Reported_by": "Dr Ing Soo Tiong (Consultant Haematologist)",
+      "Authorized_by": "A/Prof Piers Blombery (Consultant Haematologist)",
+      "Reported": "16-Mar-2023"
+   },
+   "References": "1. Li MM, Datto M, Duncavage EJ, et al. Standards and Guidelines for the Interpretation and Reporting of Sequence Variants in Cancer:A Joint Consensus Recommendation of the Association for Molecular Pathology, American Society of Clinical Oncology, and College ofAmerican Pathologists. J Mol Diagn 2017; 19(1): 4-23."
+}

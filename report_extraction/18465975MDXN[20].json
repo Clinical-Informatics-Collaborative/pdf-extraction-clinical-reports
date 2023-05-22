@@ -1,0 +1,31 @@
+{
+   "patient_info": {
+      "Patient": "Adam SMITH",
+      "Specimen": "Bone marrow aspirate",
+      "Referral Lab": "Dorevitch Pathology",
+      "URN": "PMEX996543",
+      "DOB": "01-Jan-1960",
+      "Sex": "M",
+      "Lab No": "18465975",
+      "Ext Ref": "3469711335",
+      "Collected": "31-Dec-2022",
+      "Received": "04-Jan-2023",
+      "Requester": "Dr JOHN SMITH"
+   },
+   "reportable_variants": [
+      {
+         "ASSUMED ORIGIN": "Somatic",
+         "GENE": "DNMT3A",
+         "VARIANT": "c.2645G>A, p.(Arg882His)",
+         "VRF": "7",
+         "CLINICAL SIGNIFICANCE IN MPN": "CLONAL MARKER"
+      },
+      {
+         "ASSUMED ORIGIN": "Somatic",
+         "GENE": "SH2B3",
+         "VARIANT": "c.1345G>A, p.(Glu449Lys)",
+         "VRF": "3",
+         "CLINICAL SIGNIFICANCE IN MPN": "DIAGNOSTIC"
+      }
+   ]
+}
